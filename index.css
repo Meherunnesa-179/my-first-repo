@@ -1,0 +1,14 @@
+*{ 
+ background-color: blanchedalmond;
+ width: 1000px;
+ height: 1000px;
+
+}
+div{ 
+        width: 600px;
+        height: 700px;
+        border: 2px groove black;
+        box-sizing: border-box;
+        overflow: auto;
+
+}
